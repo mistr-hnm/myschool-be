@@ -96,3 +96,37 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+
+// TODO
+// Tracability
+// Webhook, Webhook for email,sms
+// Aggregate
+// Configured conditions
+
+
+// Single project structure, till deployment
+
+// Error handling
+// multi language
+// Sturcture project
+// dont use userid for authentication, related to api security
+
+
+// UI side, native UI, incase i want to upgrade later
+// configurable, 
+//  -dynamic form/list/formdata
+
+// plugin -- Advance feature
+
+
+// Already have this
+// Form builder for form
+// Dashboard, 
+    // QUery designer // new
+// Personalized
+
+
+// Deployment is important
