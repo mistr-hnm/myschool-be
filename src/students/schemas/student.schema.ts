@@ -24,6 +24,9 @@ export class Student {
     @Prop()
     description: string;
 
+    @Prop()
+    picture: string;
+
     @Prop({
         type: String,
         required: true,
